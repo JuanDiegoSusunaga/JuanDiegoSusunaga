@@ -1,63 +1,45 @@
-<h1 align="center">Hola, soy Juan Diego 👋</h1>
+# Hola, soy Juan Diego
 
-<p align="center">
-  Estudiante de <b>Matemáticas Aplicadas y Ciencias de la Computación</b> (MACC) · 7° semestre <br/>
-  <a href="https://www.urosario.edu.co/">Universidad del Rosario</a> · Intercambio en <a href="https://tec.mx/">Tec de Monterrey</a>
-</p>
+Estudiante de **Matemáticas Aplicadas y Ciencias de la Computación (MACC)** en la **Universidad del Rosario**, con énfasis en Inteligencia Artificial · **8.º semestre**.
 
-<p align="center">
-  <a href="mailto:juandiegosusunaga@gmail.com">
-    <img src="https://img.shields.io/badge/Email-juandiegosusunaga@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-FFCD00?style=flat" alt="Bogotá, Colombia" />
-  <img src="https://img.shields.io/badge/Intercambio-Monterrey%2C%20MX-006847?style=flat" alt="Monterrey, MX" />
-</p>
+Construyo aplicaciones web y exploro la relación entre matemáticas, aprendizaje automático y sistemas. Mi trabajo abarca el desarrollo de producto, desde el modelo de datos hasta el despliegue, y la investigación en criptografía post-cuántica.
 
----
+[LinkedIn](https://www.linkedin.com/in/juan-diego-susunaga/) · [Portafolio](https://github.com/JuanDiegoSusunaga/portfolio) · [Correo](mailto:juandiegosusunaga@gmail.com) · Bogotá, Colombia
 
-### 🧠 Sobre mí
+## En qué trabajo
 
-Me gusta construir productos end-to-end: de la migración SQL al deploy. Trabajo cómodo en el cruce entre **matemáticas, datos y producto** — modelos predictivos por un lado, apps web con experiencia pulida por el otro.
+- **QNexus:** creador y desarrollador de un ERP web para infraestructura y construcción, con módulos de operaciones, inventarios, compras, personal y finanzas, funcionamiento sin conexión y validación mediante QR.
+- **NEXUS:** trabajo de grado sobre una arquitectura blockchain de doble capa y criptografía post-cuántica. Desarrollo un prototipo de referencia en Rust bajo la dirección de Pedro Mario Wightman Rojas.
+- **Investigación en IA:** experimentos con capas neuronales circulantes mediante FFT y grafos HNSW para búsqueda vectorial y recuperación semántica, usando Python y PyTorch.
+- **AIESEC en Rosario:** miembro del área iGV, con apoyo a proyectos de impacto social e integración de voluntarios internacionales.
 
-Actualmente:
-- 🎓 7° semestre de **MACC**, intercambio en el Tec de Monterrey.
-- 🛠️ Construyendo [**casa-famosos-pujmun**](https://github.com/JuanDiegoSusunaga/casa-famosos-pujmun) — plataforma de votación tipo *reality show* para PUJMUN XI (Next.js 16 + Supabase).
-- 📚 Profundizando en sistemas operativos, ML aplicado y desarrollo full-stack moderno.
+## Proyectos destacados
 
----
+| Proyecto | Qué encontrarás | Tecnologías |
+| --- | --- | --- |
+| [QNexus — caso de estudio](https://github.com/JuanDiegoSusunaga/portfolio/blob/main/projects/qnexus.md) | Contexto del ERP y decisiones de arquitectura. El código del producto es privado. | Next.js, TypeScript, PostgreSQL, Supabase, IndexedDB |
+| [NEXUS](https://github.com/JuanDiegoSusunaga/nexus) | Modelo y prototipo de investigación con firmas post-cuánticas y una prueba de concepto STARK. El repositorio distingue lo implementado, lo modelado y el trabajo futuro. | Rust, criptografía post-cuántica, blockchain |
+| [Casa de los Famosos · PUJMUN XI](https://github.com/JuanDiegoSusunaga/casa-famosos-pujmun) | Plataforma de votación, interacción en vivo y administración para un evento universitario. | Next.js, TypeScript, Supabase, Vitest, Playwright |
+| [Planificador de procesos para UR-OS](https://github.com/JuanDiegoSusunaga/Planificador-de-Procesos-Predictivo-e-Interactivo-ML-para-UR-OS) | Planificador de procesos con aprendizaje automático para un sistema operativo educativo. | Java, ML |
 
-### 🧰 Stack
+Más proyectos y casos de estudio en mi [portafolio](https://github.com/JuanDiegoSusunaga/portfolio).
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+## Herramientas
 
----
+**Desarrollo web:** TypeScript, JavaScript, Next.js, React, Node.js, HTML, CSS y Tailwind CSS.  
+**Datos e IA:** Python, PyTorch, scikit-learn, SQL y PostgreSQL.  
+**Sistemas e infraestructura:** Rust, Java, C++, Supabase, Git, Linux y Docker.
 
-### ✨ Proyectos destacados
+## Formación y certificaciones
 
-- **[casa-famosos-pujmun](https://github.com/JuanDiegoSusunaga/casa-famosos-pujmun)** — Plataforma full-stack del *reality* de PUJMUN XI: votación semanal, dashboard en vivo, módulo de matchmaking ("Cupido"), test de compatibilidad, elecciones diplomáticas y panel admin. Next.js 16 (App Router + Server Components), Supabase (Auth + Realtime + 30 migraciones SQL con RLS estricto), TypeScript, Tailwind 4, Vitest + Playwright.
+- **Universidad del Rosario:** MACC, énfasis en Inteligencia Artificial; 8.º semestre.
+- **Tecnológico de Monterrey:** intercambio académico durante el **primer semestre de 2025**.
+- **[Q-AI: Summer School on Quantum Artificial Intelligence](https://urosario.edu.co/summer-school/q-ai-summer-school-on-quantum-artificial-intelligence):** Universidad del Rosario, en colaboración con la Université du Québec à Trois-Rivières (Canadá). **14–18 de julio de 2025 · 25 horas · en inglés · certificado de participación.** Formación en computación cuántica, circuitos con Qiskit y aprendizaje automático cuántico.
 
-- **[Planificador-de-Procesos-Predictivo-e-Interactivo-ML-para-UR-OS](https://github.com/JuanDiegoSusunaga/Planificador-de-Procesos-Predictivo-e-Interactivo-ML-para-UR-OS)** — Planificador de procesos con ML predictivo para el sistema operativo educativo UR-OS. Java.
+**Idiomas:** español nativo e inglés B2.
 
----
+## Contacto
 
-### 📫 Contáctame
+Abierto a colaborar en desarrollo full-stack, aprendizaje automático y sistemas.
 
-- ✉️ [juandiegosusunaga@gmail.com](mailto:juandiegosusunaga@gmail.com)
-- 💬 Abierto a colaborar en proyectos de **full-stack**, **ML aplicado** y **sistemas**.
-
----
-
-<p align="center">
-  <i>"De la migración SQL al deploy."</i>
-</p>
+[juandiegosusunaga@gmail.com](mailto:juandiegosusunaga@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-diego-susunaga/)
